@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1774420063208",
+    "title": "There's nothing Holdings me back",
+    "artist": "Shawn Men",
+    "album": "life",
+    "duration": "3:19",
+    "addedBy": "Shawn Men",
+    "plays": 0,
+    "filename": "1774420063162-379449468.mp3",
+    "url": "http://localhost:4000/uploads/tracks/1774420063162-379449468.mp3"
+  },
+  {
+    "id": "1775127960372",
+    "title": "INTERPOL",
+    "artist": "Каспер",
+    "album": "INTERPOL",
+    "duration": "3:08",
+    "addedBy": "Каспер",
+    "plays": 0,
+    "filename": "1775127960279-549721417.mp3",
+    "url": "http://localhost:4000/uploads/tracks/1775127960279-549721417.mp3",
+    "coverFilename": "1775128665708-948346881.jpeg",
+    "coverUrl": "http://localhost:4000/uploads/covers/1775128665708-948346881.jpeg"
+  }
+]
